@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on **open-source MERN stack projects**
 - 🤔 I’m looking for help with **optimizing backend performance and scaling MongoDB**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, and Firebase**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/habibali) | Email: habibali8770.email@example.com**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/habibali) | Email: habibali8770@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love exploring Gilgit-Baltistan and coding while surrounded by nature**
 
