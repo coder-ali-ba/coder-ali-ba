@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m a Full Stack MERN Developer
+- 💬 Ask me about React, Node.js, MongoDB
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/Habib ALi)
 
 <!--
 **coder-ali-ba/coder-ali-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
