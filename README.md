@@ -1,7 +1,12 @@
-## Hi there 👋
-- 🔭 I’m a Full Stack MERN Developer
-- 💬 Ask me about React, Node.js, MongoDB
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/Habibali)
+### Hi there 👋, I'm Habib Ali
+
+- 🌱 I’m currently learning **TypeScript, Next.js, and DevOps tools**
+- 👯 I’m looking to collaborate on **open-source MERN stack projects**
+- 🤔 I’m looking for help with **optimizing backend performance and scaling MongoDB**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, and Firebase**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/yourprofile) | Email: your.email@example.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love exploring Gilgit-Baltistan and coding while surrounded by nature**
 
 <!--
 **coder-ali-ba/coder-ali-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
