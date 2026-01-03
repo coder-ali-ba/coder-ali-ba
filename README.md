@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Habib Ali
-
-- 🌱 I’m currently learning **TypeScript, Next.js, and DevOps tools**
+-    I'm currently working as a frontend developer Intern at Developers Hub Corporation
+- 🌱 I’m currently learning {**TypeScript, Next.js, and DevOps tools**}
 - 👯 I’m looking to collaborate on **open-source MERN stack projects**
 - 🤔 I’m looking for help with **optimizing backend performance and scaling MongoDB**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, and Firebase**
